@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dnovellas.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Actualización de la Bitácora de Viaje</title>
+      <link>https://dnovellas.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnovellas.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Bitácora de exploración espacial, entrada número n.
+El óxigeno se agotará mañana por la mañana&amp;hellip;
+Breve resemblanza de lo aprendido hasta el momento en esta misión espacial:
+En un principio, hubo una Sherpa que nos regaño&amp;hellip; y gracias a la cual aprendimos o de alguna forma recordé la programación en Python, y cuanto amaba su sintaxis, en comparativa con lenguajes más &amp;ldquo;cuadrados&amp;rdquo; como .NET o Java. Nos enseño otra forma de realizar programas con markdown incrustado, por medio de los JupyterNotebook.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://dnovellas.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
