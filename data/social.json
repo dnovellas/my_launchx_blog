@@ -1,10 +1,5 @@
 {
-  "links": [
-    /*{
-      "name": "twitter",
-      "url": "https://twitter.com/???",
-      "image": "images/social/twitter.svg"
-    },*/
+  "links": [    
     {
       "name": "github",
       "url": "https://github.com/dnovellas",
