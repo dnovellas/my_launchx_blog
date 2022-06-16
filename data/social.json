@@ -9,6 +9,11 @@
       "name": "github",
       "url": "https://github.com/dnovellas",
       "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedIn",
+      "url": "https://www.linkedin.com/in/david-novella-saldaña-a80289123/",
+      "image": "images/social/github.svg"
     }
   ]
 }
