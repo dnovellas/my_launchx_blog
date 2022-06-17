@@ -5,7 +5,7 @@
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
   /*--highlight-color: #007fda;*/
-  --highlight-color: #b6ff16ad;
+  --highlight-color: #7b16ff;
   --heading-color: #1c1b1d;
   --text-color: #4e5157; }
 
